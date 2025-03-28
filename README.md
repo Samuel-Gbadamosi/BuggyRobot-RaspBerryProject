@@ -85,11 +85,9 @@ The robot's current status (movement direction and speed) is logged in `status.t
 
 Feel free to fork the repository and submit pull requests for improvements! Contributions are always welcome.
 
-## License 📄
-
-This project is open-source under the [MIT License](LICENSE).
-
 ---
 
 Enjoy building and controlling your BuggyRobot! 🚗💨
+
+Created by Samuel Gbadamosi 
 
