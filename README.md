@@ -1,4 +1,4 @@
-# BuggyRobot-RaspBerryProject
+# 🤖 BuggyRobot-RaspBerryProject
 
 This project is a Raspberry Pi-controlled buggy robot using the gpiozero library. The robot can move forward, backward, left, and right, with adjustable speed, and is controlled via a keyboard interface using the curses module.
 
