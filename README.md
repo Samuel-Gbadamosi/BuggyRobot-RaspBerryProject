@@ -63,7 +63,8 @@ sudo apt install python3-gpiozero
 
 Clone the Repository:
 
-git clone https://github.com/samuel-gbadamosi/BuggyRobot.git
+git clone https://github.com/Samuel-Gbadamosi/BuggyRobot-RaspBerryProject.git
+
 
 cd BuggyRobot
 
