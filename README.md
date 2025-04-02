@@ -83,7 +83,7 @@ The robot's current status (movement direction and speed) is logged in `status.t
 
 ## Contributing 🤝
 
-Feel free to fork the repository and submit pull requests for improvements! Contributions are always welcome.
+Feel free to fork the repository and submit pull requests for improvements! Contributions are always welcome 😎.
 
 ---
 
