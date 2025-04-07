@@ -1,3 +1,6 @@
+![Alt text](images/finalresultimage.jpg)
+
+
 # BuggyRobot-RaspberryProject 🤖
 
 This project is a Raspberry Pi-controlled buggy robot powered by the `gpiozero` library. The robot can move in all directions—forward, backward, left, and right—with adjustable speed. It is controlled via a keyboard interface using the `curses` module for smooth operation.
