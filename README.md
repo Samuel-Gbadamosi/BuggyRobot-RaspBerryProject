@@ -88,7 +88,14 @@ The robot's current status (movement direction and speed) is logged in `status.t
 
 Feel free to fork the repository and submit pull requests for improvements! Contributions are always welcome 😎.
 
----
+------
+
+Before :
+<img src="images/firstOne.jpg" alt="firstPic" width="200" height="200"/>
+-------
+After :
+<img src="images/image4.jpg" alt="Final-result" width="200"/>
+
 
 Enjoy building and controlling your BuggyRobot! 🚗💨
 
