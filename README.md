@@ -97,7 +97,7 @@ After :
 <img src="images/image4.jpg" alt="Final-result" width="200"/>
 
 
-Enjoy building and controlling your BuggyRobot! 🚗💨
+Enjoy building and controlling your BuggyRobot! 🚗..💨
 
 Created by Samuel Gbadamosi 
 
